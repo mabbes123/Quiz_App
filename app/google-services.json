@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "599806630750",
+    "firebase_url": "https://androiddb-bb940.firebaseio.com",
+    "project_id": "androiddb-bb940",
+    "storage_bucket": "androiddb-bb940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599806630750:android:d4f5b2e2ec450c3492cdcf",
+        "android_client_info": {
+          "package_name": "com.example.test_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599806630750-9c2mfcd5fuvqj3i2qlj5ttij554gsooj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2ef6ob8aUmRP6Ujzzvae82u4s_iDH40s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599806630750-9c2mfcd5fuvqj3i2qlj5ttij554gsooj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
